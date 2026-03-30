@@ -1,12 +1,8 @@
 {
-  "id": "raw.audio.patcher",
-  "spec": 3,
-  "version": "1.0.0",
-  "type": "plugin",
-  "display": {
-    "name": "Raw Audio Patcher",
-    "description": "Forces high bitrate, stereo, raw unfiltered audio for Discord voice",
-    "authors": [{ "name": "gabe", "id": "1266041307906838529" }]
-  },
-  "main": "index.js"
+  "name": "Raw Audio Patcher",
+  "description": "Forces 384kbps stereo, raw unfiltered audio for Discord voice",
+  "authors": [{ "name": "gabe", "id": "1266041307906838529" }],
+  "main": "index.js",
+  "hash": "e4540810d5accea1fffd330b1849ea3cb3c565914cc937397dfc3ef5f3764dba",
+  "vendetta": { "icon": "ic_audio" }
 }
